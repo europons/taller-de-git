@@ -1,0 +1,9 @@
+# ignora .gitignore
+.gitignore
+
+# Ignora todo el directorio dir1
+dir1/
+
+# Ignora el archivo prueba.txt
+prueba.txt
+
