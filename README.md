@@ -5,4 +5,6 @@ Realizado para la práctica P1.1
 
 Curso de GIT 2025
 
+Curso de GIT octubre 2025
+
 Desarrollado por Javier García.
