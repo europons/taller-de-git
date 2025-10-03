@@ -2,8 +2,7 @@
 
 Este proyecto contiene el curso de introducción a GIT del módulo Despliegue de Aplicaciones Web.
 Realizado para la práctica P1.1
-<<<<<<< HEAD
 
-Curso de GIT, octubre 2025
+Curso de GIT, octubre
 
 Desarrollado por Javier García.
